@@ -15,11 +15,6 @@
   <project path="kernel/xiaomi/msm8996" name="Xiaomi-msm8996/kernel_xiaomi_msm8996" remote="github" revision="lineage-15.1" />
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-15.1" />
 
-  <!-- Replace default toolchain with the UBER toolchain (GCC 4.9 for now) -->
-  <remove-project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" />
-  <remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" />
-  <remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" />
-  <project name="matthewdalex/aarch64-linux-android-4.9" path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" remote="bitbucket" revision="master"/>
-  <project name="matthewdalex/arm-linux-androideabi-4.9" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" remote="bitbucket" revision="master"/>
-  <project name="matthewdalex/arm-eabi-4.9" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" remote="bitbucket" revision="master"/>
+  <!-- DragonTC 7.0 (Clang) -->
+  <project path="prebuilts/clang/host/linux-x86/7.0-DragonTC" name="Hlcpereira/prebuilts_clang_host_linux-x86_7.0-DragonTC" remote="github" revision="master" />
 </manifest>
