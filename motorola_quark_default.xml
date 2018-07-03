@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+  <remote name="bitbucket" fetch="https://bitbucket.org/" />
+  <remote name="gitlab" fetch="https://gitlab.com/" />
+
+  <!-- Devices sources -->
+  <project path="device/motorola/quark" name="Hlcpereira/device_motorola_quark" remote="github" revision="N-AOSP" />
+  <project path="vendor/motorola" name="Hlcpereira/proprietary_vendor_motorola" remote="github" revision="cm-14.1" />
+  <project path="kernel/motorola/apq8084" name="Hlcpereira/kernel_motorola_apq8084" remote="github" revision="N-KernelX" />
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" />
+
+</manifest>
