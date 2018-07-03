@@ -2,7 +2,7 @@
 
 <manifest>
   <remote name="bitbucket" fetch="https://bitbucket.org/" />
-  <remote name="gitlab" fetch="https://gitlab,com/" />
+  <remote name="gitlab" fetch="https://gitlab.com/" />
 
   <!-- Devices sources -->
   <project path="device/oneplus/msm8998-common" name="Hlcpereira/device_oneplus_msm8998-common" remote="github" revision="oreo-mr1" />
