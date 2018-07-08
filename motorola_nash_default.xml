@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+  <remote name="bitbucket" fetch="https://bitbucket.org/" />
+  <remote name="gitlab" fetch="https://gitlab.com/" />
+
+  <!-- Devices sources -->
+  <project path="device/motorola/nash" name="Hlcpereira/device_motorola_nash" remote="github" revision="oreo-mr1" />
+  <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="lineage-15.1" />
+  <project path="kernel/motorola/msm8998" name="Hlcpereira/kernel_motorola_msm8998" remote="github" revision="O-KernelX" />
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-15.1" />
+
+</manifest>
