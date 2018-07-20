@@ -7,7 +7,8 @@ Created for friends/mates usage and mine also.
 
 Devices included:
 
-- Motorola Moto Maxx/Droid Turbo
-- Motorola Moto Z2 Force
-- OnePlus 5/5T
-- Xiaomi Mi 5/Mi 5s/Mi 5s Plus/Mi Mix/Mi Note 2
+- Google/Huawei Nexus 6P (angler)
+- Motorola Moto Maxx/Droid Turbo (quark)
+- Motorola Moto Z2 Force (nash)
+- OnePlus 5/5T (cheeseburguer/dumpling)
+- Xiaomi Mi 5/Mi 5s/Mi 5s Plus/Mi Mix/Mi Note 2 (gemini/capricorn/natrium/lithium/scorpio)

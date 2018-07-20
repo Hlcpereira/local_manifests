@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+  <remote name="bitbucket" fetch="https://bitbucket.org/" />
+  <remote name="gitlab" fetch="https://gitlab.com/" />
+
+  <!-- Devices sources -->
+  <project path="device/google/angler" name="Hlcpereira/device_google_angler" remote="github" revision="oreo-mr1" />
+  <project path="vendor/google" name="Hlcpereira/proprietary_vendor_google" remote="github" revision="lineage-15.1" />
+  <project path="kernel/google/msm8994" name="Hlcpereira/kernel_google_msm8994" remote="github" revision="O-KernelX" />
+
+</manifest>
