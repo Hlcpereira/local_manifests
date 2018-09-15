@@ -7,7 +7,7 @@
   <!-- Devices sources -->
   <project path="device/xiaomi/sdm845-common" name="LineageOS/android_device_xiaomi_sdm845-common" remote="github" revision="lineage-15.1" />
   <project path="device/xiaomi/polaris" name="LineageOS/android_device_xiaomi_polaris" remote="github" revision="lineage-15.1" />
-  <project path="device/xiaomi/dipper" name="AospExtended-Devices/android_device_xiaomi_dipper" remote="github" revision="lineage-15.1" />
+  <project path="device/xiaomi/dipper" name="LineageOS/android_device_xiaomi_dipper" remote="github" revision="lineage-15.1" />
   <project path="device/xiaomi/beryllium" name="LineageOS/android_device_xiaomi_beryllium" remote="github" revision="lineage-15.1" />
   <project path="device/xiaomi/ursa" name="LineageOS/android_device_xiaomi_ursa" remote="github" revision="lineage-15.1" />
   <project path="vendor/xiaomi" name="AospExtended-Devices/proprietary_vendor_xiaomi" remote="github" revision="8.1.x" />
