@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <manifest>
-  <remote name="bitbucket" fetch="https://bitbucket.org/" />
-  <remote name="gitlab" fetch="https://gitlab.com/" />
-
   <!-- Devices sources -->
   <project path="device/xiaomi/sdm845-common" name="device_xiaomi_sdm845-common" remote="pixel-devices" revision="staging/pie-vendor" />
   <project path="device/xiaomi/dipper" name="device_xiaomi_dipper" remote="pixel-devices" revision="staging/pie-vendor" />
